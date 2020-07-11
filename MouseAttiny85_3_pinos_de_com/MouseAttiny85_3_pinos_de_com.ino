@@ -97,7 +97,7 @@ void loop() {
     DigiMouse.delay(50);    
     DigiMouse.moveY(-60); //sobe 1000
     DigiMouse.delay(50);
-    DigiMouse.moveX(-100); //esquerda 1000
+    DigiMouse.moveX(-100); //esquerda 1000 //desloca no canto superior esquerdo
     }
 
     for(senha=0; senha<=15; senha++)
@@ -105,26 +105,15 @@ void loop() {
     DigiMouse.delay(50);
     DigiMouse.moveY(26); //desce 200
     DigiMouse.delay(50);
-    DigiMouse.moveX(52); //direita 500
+    DigiMouse.moveX(52); //direita 500   //vai no ponto inicio da senha
     }
 
     DigiMouse.delay(500);
     
     DigiMouse.leftClick();
-
-    for(senha=0; senha<=24; senha++)
-    {
-    DigiMouse.delay(100);
-    DigiMouse.moveY(10); //desce 200
-    }
-
-    for(senha=0; senha <=24; senha ++)
-    {
-    DigiMouse.delay(50);
-    DigiMouse.moveY(-10); //sobe 10
-    DigiMouse.delay(50);
-    DigiMouse.moveX(10); //direita 10
-    }
+    
+     //In here there are comands for movement the mouse for unlock the device
+    //aqui insira os comandos para a movimentação do mouse para destravar o dispositivo
     
     DigiMouse.setButtons(0);
     
