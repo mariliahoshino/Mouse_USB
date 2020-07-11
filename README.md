@@ -1,6 +1,10 @@
 # Mouse_USB
 Mouse USB via app
 
+the original library there are some wrong
+In this link have explains about this
+https://github.com/mariliahoshino/Problem-with-attiny-mouse/issues/1
+
 In Attiny85
 https://github.com/mariliahoshino/Mouse_USB/tree/master/MouseAttiny85_3_pinos_de_com
 
