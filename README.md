@@ -17,7 +17,7 @@ https://www.facebook.com/mari.zeniti
 This project can make you control mouse via cellphone, you need connect the electronic board a computer, TV, any device, and open the App in cellphone and control the cursor via App
 
 Picture and Video Project in Instagram
-https://www.instagram.com/mari.zeniti/
+https://www.instagram.com/p/CCg9Zs8J6cR/?igshid=1qrboacq309h4
 
 the original library there are some wrong
 In this link have explains about this
