@@ -1,17 +1,13 @@
 # Mouse_USB
 Mouse USB via app
 
-My profile in LinkedIn
-https://www.linkedin.com/in/mariliahoshino/
+### My Lages
 
-Personal page
-https://mariliahoshino.wixsite.com/cvitae
+<a href="https://www.linkedin.com/in/mariliahoshino/"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linkedin.png?raw=true" height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://mariliahoshino.wixsite.com/cvitae/"> Personal page <img src ="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_site.png?raw=true" height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="50" widht="400"></a>
 
-Instagram
-https://www.instagram.com/mari.zeniti/
-
-Facebook
-https://www.facebook.com/mari.zeniti
 
 #About Project
 This project can make you control mouse via cellphone, you need connect the electronic board a computer, TV, any device, and open the App in cellphone and control the cursor via App
