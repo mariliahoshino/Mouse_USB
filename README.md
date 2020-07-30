@@ -30,7 +30,7 @@ in cellphone you need install this app
 https://play.google.com/store/apps/details?id=cc.blynk&hl=pt_BR
 
 
-souce:
+source:
 https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/
 
 https://blog.silvatronics.com.br/programando-placa-digispark-attiny85-com-ide-arduino/
