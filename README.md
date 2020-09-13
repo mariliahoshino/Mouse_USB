@@ -34,3 +34,8 @@ source:
 https://www.filipeflop.com/blog/programar-nodemcu-com-ide-arduino/
 
 https://blog.silvatronics.com.br/programando-placa-digispark-attiny85-com-ide-arduino/
+
+
+http://labdegaragem.com/m/discussion?id=6223006%3ATopic%3A349876 <br>
+
+https://www.filipeflop.com/blog/subtituindo-delay-por-millis-no-arduino/ <br>
